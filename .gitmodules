@@ -1,0 +1,6 @@
+[submodule "OAP"]
+	path = OAP
+	url = https://github.com/qXOMAp/OAP
+[submodule "outdoors"]
+	path = outdoors
+	url = https://github.com/qXOMAp/OAP
